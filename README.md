@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=A975F7&center=true&width=440&lines=+++++++++++++++++++Hello!;+++++++++++++++++++I'm+Togashi+Yuuta++%CB%B6%CB%86%E1%97%9C%CB%86%CB%B5+;+++++++++++++++++++Nice+to+meet+you)](https://git.io/typing-svg)
+
 # 💫 About Me:
 <center>🔭 I’m currently working on Python BOT<br>👯 I’m looking to collaborate on making APIs<br>🤝 I’m looking for help with creating AI bot<br>🌱 I’m currently learning C++, Python<br>💬 Ask me about Python<br>⚡ Feel free to discuss anything</center>
 
