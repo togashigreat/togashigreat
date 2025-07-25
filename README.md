@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=A975F7&center=true&width=440&lines=+++++Hello!;+++++I'm+Togashi+Yuuta++%CB%B6%CB%86%E1%97%9C%CB%86%CB%B5+;+++++Nice+to+meet+you)](https://git.io/typing-svg)
 
 # 💫 About Me:
-<center>🐾 Currently working on Blockchain Technology <br>😴Waiting for mojo🔥 <br>📜learning C, Python 🙂<br>💬 Don't ask me about JavaScript 💀<br>⚡ Feel free to discuss anything</center>
+<div>
+<center>🐾 Currently working on Blockchain Technology <br>😴Nah, Not Waiting for bloated Mojo🔥 <br>📜learning C, Python 🙂<br>💬 Don't ask me about JavaScript 💀<br>⚡ Feel free to discuss anything</center></div>
 
 
 ## 🌐 Socials:
