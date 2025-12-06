@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=A975F7&center=true&width=440&lines=+++++Hello!;+++++I'm+Togashi+Yuuta++%CB%B6%CB%86%E1%97%9C%CB%86%CB%B5+;+++++Nice+to+meet+you)](https://git.io/typing-svg)
 
-# 💫 About Me:
+# 💫 About Him:
 
 <div>
-<center> **-** Currently working on Blockchain Technology 🐾 <br> **-** 😴Nah, Not Waiting for bloated Mojo🔥 <br> **-** 📜learning C, Python 🙂<br> **-** Don't ask me about JavaScript 💀 just d*e <br> **-** 🍷 Feel free to yap about anything related to prgraming</center></div>
+<center><strong> >> </strong> Currently working on Blockchain Technology 🐾 <br><strong> >> </strong> 😴Nah, Not Waiting for bloated Mojo🔥 <br><strong> >> </strong> 📜learning C, Python 🙂<br><strong> >> </strong> Don't ask me about JavaScript 💀 just d*e <br><strong> >> </strong> 🍷 Feel free to yap about anything related to prgraming</center></div>
 
 ## 🌐 Socials:
 
