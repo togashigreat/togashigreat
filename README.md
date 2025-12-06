@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 <div>
-<center> ✨ 🐾 Currently working on Blockchain Technology 🐾 <br>😴Nah, Not Waiting for bloated Mojo🔥 <br>📜learning C, Python 🙂<br>💬 Don't ask me about JavaScript 💀 just d*e <br>🍷 Feel free to yap about anything related to prgraming</center></div>
+<center> 0x1 Currently working on Blockchain Technology 🐾 <br> 0x2 😴Nah, Not Waiting for bloated Mojo🔥 <br> 0x3 📜learning C, Python 🙂<br> 0x4 Don't ask me about JavaScript 💀 just d*e <br> 0x5 🍷 Feel free to yap about anything related to prgraming</center></div>
 
 
 ## 🌐 Socials:
