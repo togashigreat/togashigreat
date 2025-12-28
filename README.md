@@ -17,12 +17,6 @@
 ![Stats](https://github-readme-stats-fast.vercel.app/api?username=togashigreat&show_icons=true&theme=onedark&count_private=true)
 ![Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=togashigreat&show_icons=true&theme=onedark)
 
-![](https://github-readme-stats.vercel.app/api?username=togashigreat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=togashigreat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=togashigreat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 
 [![](https://visitcount.itsvg.in/api?id=togashigreat&icon=2&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
